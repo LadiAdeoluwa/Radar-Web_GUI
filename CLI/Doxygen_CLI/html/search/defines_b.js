@@ -1,0 +1,24 @@
+var searchData=
+[
+  ['sec_5fto_5fmilli_5fsec_5fconversion_1024',['SEC_TO_MILLI_SEC_CONVERSION',['../rf__api__internal_8h.html#ac5284c99121394dafa35fa848ff41fa8',1,'rf_api_internal.h']]],
+  ['sock_5frecv_5fbuf_5fsize_1025',['SOCK_RECV_BUF_SIZE',['../defines_8h.html#a1333ddb19ed13ff34aab7055163421f5',1,'defines.h']]],
+  ['sock_5fsend_5fbuf_5fsize_1026',['SOCK_SEND_BUF_SIZE',['../defines_8h.html#a848183d15dc684bff8a887b8a204eec8',1,'defines.h']]],
+  ['socket_5ferror_1027',['SOCKET_ERROR',['../rf__api__internal_8h.html#a633b0396ff93d336a088412a190a5072',1,'rf_api_internal.h']]],
+  ['socket_5fthread_5ftimeout_5fduration_5fsec_1028',['SOCKET_THREAD_TIMEOUT_DURATION_SEC',['../rf__api__internal_8h.html#af08324df53b88177f5264b98831e87cb',1,'rf_api_internal.h']]],
+  ['status_1029',['STATUS',['../rf__api_8h.html#a59279bee44f34d08b3cbf3a89fb0d8d9',1,'rf_api.h']]],
+  ['sts_5fcapture_5fthread_5ftimeout_1030',['STS_CAPTURE_THREAD_TIMEOUT',['../rf__api_8h.html#add8ff80286f88cdb4fa6e5e23776af96',1,'rf_api.h']]],
+  ['sts_5fgui_5fplayback_5fcompleted_1031',['STS_GUI_PLAYBACK_COMPLETED',['../rf__api_8h.html#ac7495d3cdd960109f6b726a94471e98e',1,'rf_api.h']]],
+  ['sts_5fplayback_5ffile_5fopen_5ferr_1032',['STS_PLAYBACK_FILE_OPEN_ERR',['../rf__api_8h.html#a6374468b603375070171638805ffd914',1,'rf_api.h']]],
+  ['sts_5fplayback_5fis_5fin_5fprogress_1033',['STS_PLAYBACK_IS_IN_PROGRESS',['../rf__api_8h.html#ac06c411113bbb18b4821befa729fec75',1,'rf_api.h']]],
+  ['sts_5fplayback_5fudp_5fwrite_5ferr_1034',['STS_PLAYBACK_UDP_WRITE_ERR',['../rf__api_8h.html#a9013ccb36f1cfd4c0c041968d13361fe',1,'rf_api.h']]],
+  ['sts_5frecord_5fis_5fin_5fprogress_1035',['STS_RECORD_IS_IN_PROGRESS',['../rf__api_8h.html#a73ddc4a1d7937d41d9fa3fe3159083a7',1,'rf_api.h']]],
+  ['sts_5frecord_5fpkt_5fout_5fof_5fseq_1036',['STS_RECORD_PKT_OUT_OF_SEQ',['../rf__api_8h.html#ad04bf8fdc85c5fcf9bad995289a40616',1,'rf_api.h']]],
+  ['sts_5frfdccard_5feth_5fcable_5fcon_5ferror_1037',['STS_RFDCCARD_ETH_CABLE_CON_ERROR',['../rf__api_8h.html#abcfdc44ea04fd71f08731a8eae97fb85',1,'rf_api.h']]],
+  ['sts_5frfdccard_5fevent_5ftimeout_5ferr_1038',['STS_RFDCCARD_EVENT_TIMEOUT_ERR',['../rf__api_8h.html#a12841acac99fae33b7dd05a761e16153',1,'rf_api.h']]],
+  ['sts_5frfdccard_5finvalid_5finput_5fparams_1039',['STS_RFDCCARD_INVALID_INPUT_PARAMS',['../rf__api_8h.html#a2c4cee9cedda4f8a2ce03d45749f8ba3',1,'rf_api.h']]],
+  ['sts_5frfdccard_5fos_5ferr_1040',['STS_RFDCCARD_OS_ERR',['../rf__api_8h.html#abf59b108fd193f4a1ec604e3fe61a16b',1,'rf_api.h']]],
+  ['sts_5frfdccard_5fsuccess_1041',['STS_RFDCCARD_SUCCESS',['../rf__api_8h.html#a7a9334954f2bbf5d7c5a6ea5d8a7a423',1,'rf_api.h']]],
+  ['sts_5frfdccard_5ftimeout_5ferr_1042',['STS_RFDCCARD_TIMEOUT_ERR',['../rf__api_8h.html#a2e9580512f834d0ff69aaf86997d34e2',1,'rf_api.h']]],
+  ['sts_5frfdccard_5fudp_5fwrite_5ferr_1043',['STS_RFDCCARD_UDP_WRITE_ERR',['../rf__api_8h.html#a2b98ac8c64c9080a06b6405ac40cf9d1',1,'rf_api.h']]],
+  ['success_5fstatus_1044',['SUCCESS_STATUS',['../defines_8h.html#a3a6e2e09001ecb4d9bc81a875a851cd9',1,'SUCCESS_STATUS():&#160;defines.h'],['../globals_8h.html#a3a6e2e09001ecb4d9bc81a875a851cd9',1,'SUCCESS_STATUS():&#160;globals.h']]]
+];

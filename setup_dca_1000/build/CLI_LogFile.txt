@@ -1,0 +1,1555 @@
+
+Fri Feb 12 14:45:32 2021
+FPGA Configuration Command (req)
+
+Fri Feb 12 14:45:32 2021
+FPGA Configuration command : Success
+
+Fri Feb 12 14:45:32 2021
+Return status : 0
+
+Fri Feb 12 14:45:32 2021
+Start Record Command (req)
+
+Fri Feb 12 16:10:57 2021
+FPGA Configuration Command (req)
+
+Fri Feb 12 16:10:57 2021
+FPGA Configuration command : Success
+
+Fri Feb 12 16:10:57 2021
+Return status : 0
+
+Fri Feb 12 16:10:57 2021
+Start Record Command (req)
+
+Fri Feb 12 16:22:37 2021
+FPGA Configuration Command (req)
+
+Fri Feb 12 16:22:37 2021
+FPGA Configuration command : Success
+
+Fri Feb 12 16:22:37 2021
+Return status : 0
+
+Fri Feb 12 16:22:37 2021
+Start Record Command (req)
+
+Fri Feb 12 16:23:08 2021
+FPGA Configuration Command (req)
+
+Fri Feb 12 16:23:08 2021
+FPGA Configuration command : Success
+
+Fri Feb 12 16:23:08 2021
+Return status : 0
+
+Fri Feb 12 16:23:08 2021
+Start Record Command (req)
+
+Fri Feb 12 16:59:34 2021
+FPGA Configuration Command (req)
+
+Fri Feb 12 16:59:34 2021
+FPGA Configuration command : Success
+
+Fri Feb 12 16:59:34 2021
+Return status : 0
+
+Fri Feb 12 16:59:34 2021
+Start Record Command (req)
+
+Fri Feb 12 17:02:29 2021
+FPGA Configuration Command (req)
+
+Fri Feb 12 17:02:29 2021
+FPGA Configuration command : Success
+
+Fri Feb 12 17:02:29 2021
+Return status : 0
+
+Fri Feb 12 17:02:29 2021
+Start Record Command (req)
+
+Fri Feb 12 17:23:54 2021
+FPGA Configuration Command (req)
+
+Fri Feb 12 17:23:54 2021
+FPGA Configuration command : Success
+
+Fri Feb 12 17:23:54 2021
+Return status : 0
+
+Fri Feb 12 17:23:54 2021
+Start Record Command (req)
+
+Fri Feb 12 18:48:58 2021
+FPGA Configuration Command (req)
+
+Fri Feb 12 18:48:58 2021
+FPGA Configuration command : Success
+
+Fri Feb 12 18:48:58 2021
+Return status : 0
+
+Fri Feb 12 18:48:58 2021
+Start Record Command (req)
+
+Wed Feb 17 13:36:49 2021
+FPGA Configuration Command (req)
+
+Wed Feb 17 13:36:49 2021
+FPGA Configuration command : Success
+
+Wed Feb 17 13:36:49 2021
+Return status : 0
+
+Wed Feb 17 13:36:49 2021
+Start Record Command (req)
+
+Wed Feb 17 16:23:19 2021
+FPGA Configuration Command (req)
+
+Wed Feb 17 16:23:29 2021
+FPGA Configuration : 
+OS error - -2
+
+Wed Feb 17 16:23:29 2021
+Return status : -2
+
+Wed Feb 17 16:23:29 2021
+Start Record Command (req)
+
+Wed Feb 17 16:23:40 2021
+System is disconnected.
+
+Wed Feb 17 16:23:40 2021
+Return status : -2
+
+Wed Feb 17 16:24:11 2021
+FPGA Configuration Command (req)
+
+Wed Feb 17 16:24:21 2021
+FPGA Configuration : 
+OS error - -2
+
+Wed Feb 17 16:24:21 2021
+Return status : -2
+
+Wed Feb 17 16:24:21 2021
+Start Record Command (req)
+
+Wed Feb 17 16:24:48 2021
+FPGA Configuration Command (req)
+
+Wed Feb 17 16:24:48 2021
+FPGA Configuration command : Success
+
+Wed Feb 17 16:24:48 2021
+Return status : 0
+
+Wed Feb 17 16:24:48 2021
+Start Record Command (req)
+
+Wed Feb 17 16:35:46 2021
+FPGA Configuration Command (req)
+
+Wed Feb 17 16:35:46 2021
+FPGA Configuration command : Success
+
+Wed Feb 17 16:35:46 2021
+Return status : 0
+
+Wed Feb 17 16:35:46 2021
+Start Record Command (req)
+
+Wed Feb 17 16:44:57 2021
+FPGA Configuration Command (req)
+
+Wed Feb 17 16:44:57 2021
+FPGA Configuration command : Success
+
+Wed Feb 17 16:44:57 2021
+Return status : 0
+
+Wed Feb 17 16:44:57 2021
+Start Record Command (req)
+
+Wed Feb 17 16:52:21 2021
+FPGA Configuration Command (req)
+
+Wed Feb 17 16:52:21 2021
+FPGA Configuration command : Success
+
+Wed Feb 17 16:52:21 2021
+Return status : 0
+
+Wed Feb 17 16:52:21 2021
+Start Record Command (req)
+
+Wed Feb 17 17:23:45 2021
+FPGA Configuration Command (req)
+
+Wed Feb 17 17:23:45 2021
+FPGA Configuration command : Success
+
+Wed Feb 17 17:23:45 2021
+Return status : 0
+
+Wed Feb 17 17:23:45 2021
+Start Record Command (req)
+
+Wed Feb 17 17:49:40 2021
+FPGA Configuration Command (req)
+
+Wed Feb 17 17:49:40 2021
+FPGA Configuration command : Success
+
+Wed Feb 17 17:49:40 2021
+Return status : 0
+
+Wed Feb 17 17:49:40 2021
+Start Record Command (req)
+
+Fri Feb 19 11:43:10 2021
+FPGA Configuration Command (req)
+
+Fri Feb 19 11:43:20 2021
+FPGA Configuration : 
+OS error - -2
+
+Fri Feb 19 11:43:20 2021
+Return status : -2
+
+Fri Feb 19 11:43:20 2021
+Start Record Command (req)
+
+Fri Feb 19 11:43:31 2021
+System is disconnected.
+
+Fri Feb 19 11:43:31 2021
+Return status : -2
+
+Fri Feb 19 11:46:22 2021
+FPGA Configuration Command (req)
+
+Fri Feb 19 11:46:22 2021
+FPGA Configuration command : Success
+
+Fri Feb 19 11:46:22 2021
+Return status : 0
+
+Fri Feb 19 11:46:22 2021
+Start Record Command (req)
+
+Fri Feb 19 12:03:38 2021
+FPGA Configuration Command (req)
+
+Fri Feb 19 12:03:38 2021
+FPGA Configuration command : Success
+
+Fri Feb 19 12:03:38 2021
+Return status : 0
+
+Fri Feb 19 12:03:38 2021
+Start Record Command (req)
+
+Fri Feb 19 12:07:31 2021
+FPGA Configuration Command (req)
+
+Fri Feb 19 12:07:31 2021
+FPGA Configuration command : Success
+
+Fri Feb 19 12:07:31 2021
+Return status : 0
+
+Fri Feb 19 12:07:31 2021
+Start Record Command (req)
+
+Fri Feb 19 12:11:22 2021
+FPGA Configuration Command (req)
+
+Fri Feb 19 12:11:22 2021
+FPGA Configuration command : Success
+
+Fri Feb 19 12:11:22 2021
+Return status : 0
+
+Fri Feb 19 12:11:22 2021
+Start Record Command (req)
+
+Fri Feb 19 12:35:59 2021
+FPGA Configuration Command (req)
+
+Fri Feb 19 12:35:59 2021
+FPGA Configuration command : Success
+
+Fri Feb 19 12:35:59 2021
+Return status : 0
+
+Fri Feb 19 12:35:59 2021
+Start Record Command (req)
+
+Fri Feb 19 12:38:38 2021
+FPGA Configuration Command (req)
+
+Fri Feb 19 12:38:38 2021
+FPGA Configuration command : Success
+
+Fri Feb 19 12:38:38 2021
+Return status : 0
+
+Fri Feb 19 12:38:38 2021
+Start Record Command (req)
+
+Fri Feb 19 12:39:33 2021
+FPGA Configuration Command (req)
+
+Fri Feb 19 12:39:33 2021
+FPGA Configuration command : Success
+
+Fri Feb 19 12:39:33 2021
+Return status : 0
+
+Fri Feb 19 12:39:33 2021
+Start Record Command (req)
+
+Fri Feb 19 13:00:36 2021
+FPGA Configuration Command (req)
+
+Fri Feb 19 13:00:36 2021
+FPGA Configuration command : Success
+
+Fri Feb 19 13:00:36 2021
+Return status : 0
+
+Fri Feb 19 13:00:36 2021
+Start Record Command (req)
+
+Fri Feb 19 13:01:59 2021
+FPGA Configuration Command (req)
+
+Fri Feb 19 13:01:59 2021
+FPGA Configuration command : Success
+
+Fri Feb 19 13:01:59 2021
+Return status : 0
+
+Fri Feb 19 13:01:59 2021
+Start Record Command (req)
+
+Fri Feb 19 13:03:11 2021
+FPGA Configuration Command (req)
+
+Fri Feb 19 13:03:11 2021
+FPGA Configuration command : Success
+
+Fri Feb 19 13:03:11 2021
+Return status : 0
+
+Fri Feb 19 13:03:11 2021
+Start Record Command (req)
+
+Fri Feb 19 13:07:07 2021
+FPGA Configuration Command (req)
+
+Fri Feb 19 13:07:17 2021
+FPGA Configuration : 
+OS error - -2
+
+Fri Feb 19 13:07:17 2021
+Return status : -2
+
+Fri Feb 19 13:07:17 2021
+Start Record Command (req)
+
+Fri Feb 19 13:07:27 2021
+System is disconnected.
+
+Fri Feb 19 13:07:27 2021
+Return status : -2
+
+Mon Feb 22 18:29:22 2021
+FPGA Configuration Command (req)
+
+Mon Feb 22 18:29:22 2021
+FPGA Configuration command : Success
+
+Mon Feb 22 18:29:22 2021
+Return status : 0
+
+Mon Feb 22 18:29:22 2021
+Start Record Command (req)
+
+Tue Feb 23 14:21:14 2021
+FPGA Configuration Command (req)
+
+Tue Feb 23 14:21:14 2021
+FPGA Configuration command : Success
+
+Tue Feb 23 14:21:14 2021
+Return status : 0
+
+Tue Feb 23 14:21:14 2021
+Start Record Command (req)
+
+Tue Feb 23 18:25:05 2021
+FPGA Configuration Command (req)
+
+Tue Feb 23 18:25:05 2021
+FPGA Configuration command : Success
+
+Tue Feb 23 18:25:05 2021
+Return status : 0
+
+Tue Feb 23 18:25:05 2021
+Start Record Command (req)
+
+Wed Feb 24 15:20:00 2021
+FPGA Configuration Command (req)
+
+Wed Feb 24 15:20:00 2021
+FPGA Configuration command : Success
+
+Wed Feb 24 15:20:00 2021
+Return status : 0
+
+Wed Feb 24 15:20:00 2021
+Start Record Command (req)
+
+Wed Feb 24 15:21:50 2021
+FPGA Configuration Command (req)
+
+Wed Feb 24 15:21:50 2021
+FPGA Configuration command : Success
+
+Wed Feb 24 15:21:50 2021
+Return status : 0
+
+Wed Feb 24 15:21:50 2021
+Start Record Command (req)
+
+Wed Feb 24 15:25:30 2021
+FPGA Configuration Command (req)
+
+Wed Feb 24 15:25:30 2021
+FPGA Configuration command : Success
+
+Wed Feb 24 15:25:30 2021
+Return status : 0
+
+Wed Feb 24 15:25:30 2021
+Start Record Command (req)
+
+Wed Feb 24 15:27:46 2021
+FPGA Configuration Command (req)
+
+Wed Feb 24 15:27:46 2021
+FPGA Configuration command : Success
+
+Wed Feb 24 15:27:46 2021
+Return status : 0
+
+Wed Feb 24 15:27:46 2021
+Start Record Command (req)
+
+Wed Feb 24 15:29:43 2021
+FPGA Configuration Command (req)
+
+Wed Feb 24 15:29:43 2021
+FPGA Configuration command : Success
+
+Wed Feb 24 15:29:43 2021
+Return status : 0
+
+Wed Feb 24 15:29:43 2021
+Start Record Command (req)
+
+Wed Feb 24 15:33:47 2021
+FPGA Configuration Command (req)
+
+Wed Feb 24 15:33:47 2021
+FPGA Configuration command : Success
+
+Wed Feb 24 15:33:47 2021
+Return status : 0
+
+Wed Feb 24 15:33:47 2021
+Start Record Command (req)
+
+Wed Feb 24 15:35:05 2021
+FPGA Configuration Command (req)
+
+Wed Feb 24 15:35:22 2021
+FPGA Configuration Command (req)
+
+Wed Feb 24 15:35:32 2021
+FPGA Configuration : 
+OS error - -2
+
+Wed Feb 24 15:35:32 2021
+Return status : -2
+
+Wed Feb 24 15:35:32 2021
+Start Record Command (req)
+
+Wed Feb 24 15:35:38 2021
+FPGA Configuration Command (req)
+
+Wed Feb 24 15:35:38 2021
+FPGA Configuration command : Success
+
+Wed Feb 24 15:35:38 2021
+Return status : 0
+
+Wed Feb 24 15:35:38 2021
+Start Record Command (req)
+
+Wed Feb 24 15:39:44 2021
+FPGA Configuration Command (req)
+
+Wed Feb 24 15:39:44 2021
+FPGA Configuration command : Success
+
+Wed Feb 24 15:39:44 2021
+Return status : 0
+
+Wed Feb 24 15:39:44 2021
+Start Record Command (req)
+
+Wed Feb 24 16:13:33 2021
+FPGA Configuration Command (req)
+
+Wed Feb 24 16:13:33 2021
+FPGA Configuration command : Success
+
+Wed Feb 24 16:13:33 2021
+Return status : 0
+
+Wed Feb 24 16:13:33 2021
+Start Record Command (req)
+
+Wed Feb 24 16:23:28 2021
+FPGA Configuration Command (req)
+
+Wed Feb 24 16:23:28 2021
+FPGA Configuration command : Success
+
+Wed Feb 24 16:23:28 2021
+Return status : 0
+
+Wed Feb 24 16:23:28 2021
+Start Record Command (req)
+
+Wed Feb 24 16:24:28 2021
+FPGA Configuration Command (req)
+
+Wed Feb 24 16:24:28 2021
+FPGA Configuration command : Success
+
+Wed Feb 24 16:24:28 2021
+Return status : 0
+
+Wed Feb 24 16:24:28 2021
+Start Record Command (req)
+
+Wed Feb 24 16:26:31 2021
+FPGA Configuration Command (req)
+
+Wed Feb 24 16:26:31 2021
+FPGA Configuration command : Success
+
+Wed Feb 24 16:26:31 2021
+Return status : 0
+
+Wed Feb 24 16:26:31 2021
+Start Record Command (req)
+
+Wed Feb 24 16:42:03 2021
+FPGA Configuration Command (req)
+
+Wed Feb 24 16:42:03 2021
+FPGA Configuration command : Success
+
+Wed Feb 24 16:42:03 2021
+Return status : 0
+
+Wed Feb 24 16:42:03 2021
+Start Record Command (req)
+
+Wed Feb 24 17:28:23 2021
+FPGA Configuration Command (req)
+
+Wed Feb 24 17:28:23 2021
+FPGA Configuration command : Success
+
+Wed Feb 24 17:28:23 2021
+Return status : 0
+
+Wed Feb 24 17:28:23 2021
+Start Record Command (req)
+
+Thu Feb 25 13:26:47 2021
+FPGA Configuration Command (req)
+
+Thu Feb 25 13:26:47 2021
+FPGA Configuration command : Success
+
+Thu Feb 25 13:26:47 2021
+Return status : 0
+
+Thu Feb 25 13:26:47 2021
+Start Record Command (req)
+
+Thu Feb 25 13:30:42 2021
+FPGA Configuration Command (req)
+
+Thu Feb 25 13:30:42 2021
+FPGA Configuration command : Success
+
+Thu Feb 25 13:30:42 2021
+Return status : 0
+
+Thu Feb 25 13:30:42 2021
+Start Record Command (req)
+
+Thu Feb 25 13:30:45 2021
+FPGA Configuration Command (req)
+
+Thu Feb 25 13:30:45 2021
+FPGA Configuration command : Success
+
+Thu Feb 25 13:30:45 2021
+Return status : 0
+
+Thu Feb 25 13:30:45 2021
+Start Record Command (req)
+
+Thu Feb 25 13:31:05 2021
+FPGA Configuration Command (req)
+
+Thu Feb 25 13:31:05 2021
+FPGA Configuration command : Success
+
+Thu Feb 25 13:31:05 2021
+Return status : 0
+
+Thu Feb 25 13:31:05 2021
+Start Record Command (req)
+
+Thu Mar 18 15:48:46 2021
+FPGA Configuration Command (req)
+
+Thu Mar 18 15:48:46 2021
+FPGA Configuration command : Success
+
+Thu Mar 18 15:48:46 2021
+Return status : 0
+
+Thu Mar 18 15:48:46 2021
+Start Record Command (req)
+
+Thu Mar 18 16:26:23 2021
+FPGA Configuration Command (req)
+
+Thu Mar 18 16:26:23 2021
+FPGA Configuration command : Success
+
+Thu Mar 18 16:26:23 2021
+Return status : 0
+
+Thu Mar 18 16:26:23 2021
+Start Record Command (req)
+
+Thu Mar 18 16:36:59 2021
+FPGA Configuration Command (req)
+
+Thu Mar 18 16:36:59 2021
+FPGA Configuration command : Success
+
+Thu Mar 18 16:36:59 2021
+Return status : 0
+
+Thu Mar 18 16:36:59 2021
+Start Record Command (req)
+
+Thu Mar 18 16:42:55 2021
+FPGA Configuration Command (req)
+
+Thu Mar 18 16:42:55 2021
+FPGA Configuration command : Success
+
+Thu Mar 18 16:42:55 2021
+Return status : 0
+
+Thu Mar 18 16:42:55 2021
+Start Record Command (req)
+
+Thu Mar 18 16:44:43 2021
+FPGA Configuration Command (req)
+
+Thu Mar 18 16:44:43 2021
+FPGA Configuration command : Success
+
+Thu Mar 18 16:44:43 2021
+Return status : 0
+
+Thu Mar 18 16:44:43 2021
+Start Record Command (req)
+
+Thu Mar 18 16:44:55 2021
+FPGA Configuration Command (req)
+
+Thu Mar 18 16:44:55 2021
+FPGA Configuration command : Success
+
+Thu Mar 18 16:44:55 2021
+Return status : 0
+
+Thu Mar 18 16:44:55 2021
+Start Record Command (req)
+
+Fri Apr  9 13:08:17 2021
+FPGA Configuration Command (req)
+
+Fri Apr  9 13:08:27 2021
+FPGA Configuration : 
+OS error - -2
+
+Fri Apr  9 13:08:27 2021
+Return status : -2
+
+Fri Apr  9 13:08:27 2021
+Start Record Command (req)
+
+Fri Apr  9 13:08:37 2021
+System is disconnected.
+
+Fri Apr  9 13:08:37 2021
+Return status : -2
+
+Fri Apr  9 13:09:05 2021
+FPGA Configuration Command (req)
+
+Fri Apr  9 13:09:15 2021
+FPGA Configuration : 
+OS error - -2
+
+Fri Apr  9 13:09:15 2021
+Return status : -2
+
+Fri Apr  9 13:09:15 2021
+Start Record Command (req)
+
+Fri Apr  9 13:09:25 2021
+System is disconnected.
+
+Fri Apr  9 13:09:25 2021
+Return status : -2
+
+Fri Apr  9 13:11:41 2021
+FPGA Configuration Command (req)
+
+Fri Apr  9 13:11:51 2021
+FPGA Configuration : 
+OS error - -2
+
+Fri Apr  9 13:11:51 2021
+Return status : -2
+
+Fri Apr  9 13:11:51 2021
+Start Record Command (req)
+
+Fri Apr  9 13:12:02 2021
+System is disconnected.
+
+Fri Apr  9 13:12:02 2021
+Return status : -2
+
+Fri Apr  9 13:14:52 2021
+FPGA Configuration Command (req)
+
+Fri Apr  9 13:15:02 2021
+FPGA Configuration : 
+OS error - -2
+
+Fri Apr  9 13:15:02 2021
+Return status : -2
+
+Fri Apr  9 13:15:02 2021
+Start Record Command (req)
+
+Fri Apr  9 13:15:12 2021
+System is disconnected.
+
+Fri Apr  9 13:15:12 2021
+Return status : -2
+
+Fri Apr  9 13:20:58 2021
+FPGA Configuration Command (req)
+
+Fri Apr  9 13:21:08 2021
+FPGA Configuration : 
+OS error - -2
+
+Fri Apr  9 13:21:08 2021
+Return status : -2
+
+Fri Apr  9 13:21:08 2021
+Start Record Command (req)
+
+Fri Apr  9 13:21:18 2021
+System is disconnected.
+
+Fri Apr  9 13:21:18 2021
+Return status : -2
+
+Fri Apr  9 13:21:23 2021
+FPGA Configuration Command (req)
+
+Fri Apr  9 13:21:33 2021
+FPGA Configuration : 
+OS error - -2
+
+Fri Apr  9 13:21:33 2021
+Return status : -2
+
+Fri Apr  9 13:21:33 2021
+Start Record Command (req)
+
+Fri Apr  9 13:21:43 2021
+System is disconnected.
+
+Fri Apr  9 13:21:43 2021
+Return status : -2
+
+Fri Apr  9 13:22:00 2021
+FPGA Configuration Command (req)
+
+Fri Apr  9 13:22:00 2021
+FPGA Configuration : 
+Sending command failed - -3
+
+Fri Apr  9 13:22:00 2021
+Return status : -3
+
+Fri Apr  9 13:22:00 2021
+Start Record Command (req)
+
+Fri Apr  9 13:22:00 2021
+System is disconnected.
+
+Fri Apr  9 13:22:00 2021
+Return status : -3
+
+Fri Apr  9 13:22:05 2021
+FPGA Configuration Command (req)
+
+Fri Apr  9 13:22:05 2021
+FPGA Configuration : 
+Sending command failed - -3
+
+Fri Apr  9 13:22:05 2021
+Return status : -3
+
+Fri Apr  9 13:22:05 2021
+Start Record Command (req)
+
+Fri Apr  9 13:22:05 2021
+System is disconnected.
+
+Fri Apr  9 13:22:05 2021
+Return status : -3
+
+Fri Apr  9 13:22:08 2021
+FPGA Configuration Command (req)
+
+Fri Apr  9 13:22:08 2021
+FPGA Configuration : 
+Sending command failed - -3
+
+Fri Apr  9 13:22:08 2021
+Return status : -3
+
+Fri Apr  9 13:22:08 2021
+Start Record Command (req)
+
+Fri Apr  9 13:22:08 2021
+System is disconnected.
+
+Fri Apr  9 13:22:08 2021
+Return status : -3
+
+Fri Apr  9 13:22:36 2021
+FPGA Configuration Command (req)
+
+Fri Apr  9 13:22:36 2021
+FPGA Configuration : 
+Sending command failed - -3
+
+Fri Apr  9 13:22:36 2021
+Return status : -3
+
+Fri Apr  9 13:22:36 2021
+Start Record Command (req)
+
+Fri Apr  9 13:22:36 2021
+System is disconnected.
+
+Fri Apr  9 13:22:36 2021
+Return status : -3
+
+Fri Apr  9 13:22:38 2021
+FPGA Configuration Command (req)
+
+Fri Apr  9 13:22:38 2021
+FPGA Configuration : 
+Sending command failed - -3
+
+Fri Apr  9 13:22:38 2021
+Return status : -3
+
+Fri Apr  9 13:22:38 2021
+Start Record Command (req)
+
+Fri Apr  9 13:22:38 2021
+System is disconnected.
+
+Fri Apr  9 13:22:38 2021
+Return status : -3
+
+Fri Apr  9 13:23:01 2021
+FPGA Configuration Command (req)
+
+Fri Apr  9 13:23:11 2021
+FPGA Configuration : 
+OS error - -2
+
+Fri Apr  9 13:23:11 2021
+Return status : -2
+
+Fri Apr  9 13:23:11 2021
+Start Record Command (req)
+
+Fri Apr  9 13:23:21 2021
+System is disconnected.
+
+Fri Apr  9 13:23:21 2021
+Return status : -2
+
+Fri Apr  9 13:24:51 2021
+FPGA Configuration Command (req)
+
+Fri Apr  9 13:24:51 2021
+FPGA Configuration command : Success
+
+Fri Apr  9 13:24:51 2021
+Return status : 0
+
+Fri Apr  9 13:24:51 2021
+Start Record Command (req)
+
+Fri Apr  9 13:31:51 2021
+FPGA Configuration Command (req)
+
+Fri Apr  9 13:31:51 2021
+FPGA Configuration command : Success
+
+Fri Apr  9 13:31:51 2021
+Return status : 0
+
+Fri Apr  9 13:31:51 2021
+Start Record Command (req)
+
+Fri Apr  9 14:08:02 2021
+FPGA Configuration Command (req)
+
+Fri Apr  9 14:08:02 2021
+FPGA Configuration command : Success
+
+Fri Apr  9 14:08:02 2021
+Return status : 0
+
+Fri Apr  9 14:08:02 2021
+Start Record Command (req)
+
+Fri Apr  9 14:27:39 2021
+FPGA Configuration Command (req)
+
+Fri Apr  9 14:27:39 2021
+FPGA Configuration command : Success
+
+Fri Apr  9 14:27:39 2021
+Return status : 0
+
+Fri Apr  9 14:27:39 2021
+Start Record Command (req)
+
+Fri Apr  9 14:28:51 2021
+FPGA Configuration Command (req)
+
+Fri Apr  9 14:28:51 2021
+FPGA Configuration command : Success
+
+Fri Apr  9 14:28:51 2021
+Return status : 0
+
+Fri Apr  9 14:28:51 2021
+Start Record Command (req)
+
+Fri Apr  9 14:33:10 2021
+FPGA Configuration Command (req)
+
+Fri Apr  9 14:33:10 2021
+FPGA Configuration command : Success
+
+Fri Apr  9 14:33:10 2021
+Return status : 0
+
+Fri Apr  9 14:33:10 2021
+Start Record Command (req)
+
+Fri Apr  9 14:43:43 2021
+FPGA Configuration Command (req)
+
+Fri Apr  9 14:43:43 2021
+FPGA Configuration command : Success
+
+Fri Apr  9 14:43:43 2021
+Return status : 0
+
+Fri Apr  9 14:43:43 2021
+Start Record Command (req)
+
+Fri Apr  9 14:44:08 2021
+FPGA Configuration Command (req)
+
+Fri Apr  9 14:44:08 2021
+FPGA Configuration command : Success
+
+Fri Apr  9 14:44:08 2021
+Return status : 0
+
+Fri Apr  9 14:44:08 2021
+Start Record Command (req)
+
+Sun Apr 11 10:17:19 2021
+FPGA Configuration Command (req)
+
+Sun Apr 11 10:17:19 2021
+FPGA Configuration command : Success
+
+Sun Apr 11 10:17:19 2021
+Return status : 0
+
+Sun Apr 11 10:17:19 2021
+Start Record Command (req)
+
+Sun Apr 11 12:10:10 2021
+FPGA Configuration Command (req)
+
+Sun Apr 11 12:10:10 2021
+FPGA Configuration command : Success
+
+Sun Apr 11 12:10:10 2021
+Return status : 0
+
+Sun Apr 11 12:10:10 2021
+Start Record Command (req)
+
+Sun Apr 11 12:18:03 2021
+FPGA Configuration Command (req)
+
+Sun Apr 11 12:18:03 2021
+FPGA Configuration command : Success
+
+Sun Apr 11 12:18:03 2021
+Return status : 0
+
+Sun Apr 11 12:18:03 2021
+Start Record Command (req)
+
+Sun Apr 11 12:21:36 2021
+FPGA Configuration Command (req)
+
+Sun Apr 11 12:21:36 2021
+FPGA Configuration command : Success
+
+Sun Apr 11 12:21:36 2021
+Return status : 0
+
+Sun Apr 11 12:21:36 2021
+Start Record Command (req)
+
+Mon Apr 12 09:17:09 2021
+FPGA Configuration Command (req)
+
+Mon Apr 12 09:17:09 2021
+FPGA Configuration command : Success
+
+Mon Apr 12 09:17:09 2021
+Return status : 0
+
+Mon Apr 12 09:17:09 2021
+Start Record Command (req)
+
+Tue Apr 13 14:35:41 2021
+FPGA Configuration Command (req)
+
+Tue Apr 13 14:35:53 2021
+FPGA Configuration Command (req)
+
+Tue Apr 13 14:36:03 2021
+FPGA Configuration : 
+OS error - -2
+
+Tue Apr 13 14:36:03 2021
+Return status : -2
+
+Tue Apr 13 14:36:03 2021
+Start Record Command (req)
+
+Tue Apr 13 14:36:13 2021
+System is disconnected.
+
+Tue Apr 13 14:36:13 2021
+Return status : -2
+
+Tue Apr 13 14:36:41 2021
+FPGA Configuration Command (req)
+
+Tue Apr 13 14:36:51 2021
+FPGA Configuration : 
+OS error - -2
+
+Tue Apr 13 14:36:51 2021
+Return status : -2
+
+Tue Apr 13 14:36:51 2021
+Start Record Command (req)
+
+Tue Apr 13 14:38:48 2021
+FPGA Configuration Command (req)
+
+Tue Apr 13 14:38:48 2021
+FPGA Configuration command : Success
+
+Tue Apr 13 14:38:48 2021
+Return status : 0
+
+Tue Apr 13 14:38:48 2021
+Start Record Command (req)
+
+Tue Apr 13 14:38:59 2021
+FPGA Configuration Command (req)
+
+Tue Apr 13 14:38:59 2021
+FPGA Configuration command : Success
+
+Tue Apr 13 14:38:59 2021
+Return status : 0
+
+Tue Apr 13 14:38:59 2021
+Start Record Command (req)
+
+Tue Apr 13 14:43:08 2021
+FPGA Configuration Command (req)
+
+Tue Apr 13 14:43:08 2021
+FPGA Configuration command : Success
+
+Tue Apr 13 14:43:08 2021
+Return status : 0
+
+Tue Apr 13 14:43:08 2021
+Start Record Command (req)
+
+Wed Apr 14 08:35:58 2021
+FPGA Configuration Command (req)
+
+Wed Apr 14 08:36:09 2021
+FPGA Configuration : 
+OS error - -2
+
+Wed Apr 14 08:36:09 2021
+Return status : -2
+
+Wed Apr 14 08:36:09 2021
+Start Record Command (req)
+
+Wed Apr 14 08:36:19 2021
+System is disconnected.
+
+Wed Apr 14 08:36:19 2021
+Return status : -2
+
+Wed Apr 14 08:36:43 2021
+FPGA Configuration Command (req)
+
+Wed Apr 14 08:36:43 2021
+FPGA Configuration command : Success
+
+Wed Apr 14 08:36:43 2021
+Return status : 0
+
+Wed Apr 14 08:36:43 2021
+Start Record Command (req)
+
+Wed Apr 14 12:05:05 2021
+FPGA Configuration Command (req)
+
+Wed Apr 14 12:05:05 2021
+FPGA Configuration command : Success
+
+Wed Apr 14 12:05:05 2021
+Return status : 0
+
+Wed Apr 14 12:05:05 2021
+Start Record Command (req)
+
+Mon Apr 19 16:42:48 2021
+FPGA Configuration Command (req)
+
+Mon Apr 19 16:42:48 2021
+FPGA Configuration command : Success
+
+Mon Apr 19 16:42:48 2021
+Return status : 0
+
+Mon Apr 19 16:42:48 2021
+Start Record Command (req)
+
+Tue Apr 20 12:50:57 2021
+FPGA Configuration Command (req)
+
+Tue Apr 20 12:50:57 2021
+FPGA Configuration command : Success
+
+Tue Apr 20 12:50:57 2021
+Return status : 0
+
+Tue Apr 20 12:50:57 2021
+Start Record Command (req)
+
+Wed Apr 21 11:39:52 2021
+FPGA Configuration Command (req)
+
+Wed Apr 21 11:39:52 2021
+FPGA Configuration command : Success
+
+Wed Apr 21 11:39:52 2021
+Return status : 0
+
+Wed Apr 21 11:39:52 2021
+Start Record Command (req)
+
+Fri Apr 23 13:54:56 2021
+FPGA Configuration Command (req)
+
+Fri Apr 23 13:55:06 2021
+FPGA Configuration : 
+OS error - -2
+
+Fri Apr 23 13:55:06 2021
+Return status : -2
+
+Fri Apr 23 13:55:06 2021
+Start Record Command (req)
+
+Fri Apr 23 13:55:16 2021
+System is disconnected.
+
+Fri Apr 23 13:55:16 2021
+Return status : -2
+
+Fri Apr 23 13:55:33 2021
+FPGA Configuration Command (req)
+
+Fri Apr 23 13:55:43 2021
+FPGA Configuration : 
+OS error - -2
+
+Fri Apr 23 13:55:43 2021
+Return status : -2
+
+Fri Apr 23 13:55:43 2021
+Start Record Command (req)
+
+Fri Apr 23 13:56:28 2021
+FPGA Configuration Command (req)
+
+Fri Apr 23 13:56:38 2021
+FPGA Configuration : 
+OS error - -2
+
+Fri Apr 23 13:56:38 2021
+Return status : -2
+
+Fri Apr 23 13:56:38 2021
+Start Record Command (req)
+
+Fri Apr 23 13:56:49 2021
+System is disconnected.
+
+Fri Apr 23 13:56:49 2021
+Return status : -2
+
+Fri Apr 23 13:57:31 2021
+FPGA Configuration Command (req)
+
+Fri Apr 23 13:57:42 2021
+FPGA Configuration : 
+OS error - -2
+
+Fri Apr 23 13:57:42 2021
+Return status : -2
+
+Fri Apr 23 13:57:42 2021
+Start Record Command (req)
+
+Fri Apr 23 13:57:52 2021
+System is disconnected.
+
+Fri Apr 23 13:57:52 2021
+Return status : -2
+
+Fri Apr 23 14:00:59 2021
+FPGA Configuration Command (req)
+
+Fri Apr 23 14:01:09 2021
+FPGA Configuration : 
+OS error - -2
+
+Fri Apr 23 14:01:09 2021
+Return status : -2
+
+Fri Apr 23 14:01:09 2021
+Start Record Command (req)
+
+Fri Apr 23 14:01:19 2021
+System is disconnected.
+
+Fri Apr 23 14:01:19 2021
+Return status : -2
+
+Fri Apr 23 14:16:47 2021
+FPGA Configuration Command (req)
+
+Fri Apr 23 14:16:57 2021
+FPGA Configuration : 
+OS error - -2
+
+Fri Apr 23 14:16:57 2021
+Return status : -2
+
+Fri Apr 23 14:16:57 2021
+Start Record Command (req)
+
+Fri Apr 23 14:17:08 2021
+System is disconnected.
+
+Fri Apr 23 14:17:08 2021
+Return status : -2
+
+Fri Apr 23 14:17:45 2021
+FPGA Configuration Command (req)
+
+Fri Apr 23 14:17:45 2021
+FPGA Configuration command : Success
+
+Fri Apr 23 14:17:45 2021
+Return status : 0
+
+Fri Apr 23 14:17:45 2021
+Start Record Command (req)
+
+Mon Apr 26 15:24:09 2021
+FPGA Configuration Command (req)
+
+Mon Apr 26 15:24:09 2021
+FPGA Configuration command : Success
+
+Mon Apr 26 15:24:09 2021
+Return status : 0
+
+Mon Apr 26 15:24:09 2021
+Start Record Command (req)
+
+Tue Apr 27 10:51:42 2021
+FPGA Configuration Command (req)
+
+Tue Apr 27 10:51:42 2021
+FPGA Configuration command : Success
+
+Tue Apr 27 10:51:42 2021
+Return status : 0
+
+Tue Apr 27 10:51:42 2021
+Start Record Command (req)
+
+Tue Apr 27 15:46:06 2021
+FPGA Configuration Command (req)
+
+Tue Apr 27 15:46:16 2021
+FPGA Configuration : 
+OS error - -2
+
+Tue Apr 27 15:46:16 2021
+Return status : -2
+
+Tue Apr 27 15:46:16 2021
+Start Record Command (req)
+
+Tue Apr 27 15:46:52 2021
+FPGA Configuration Command (req)
+
+Tue Apr 27 15:46:52 2021
+FPGA Configuration command : Success
+
+Tue Apr 27 15:46:52 2021
+Return status : 0
+
+Tue Apr 27 15:46:52 2021
+Start Record Command (req)
+
+Thu Apr 29 11:48:10 2021
+FPGA Configuration Command (req)
+
+Thu Apr 29 11:48:10 2021
+FPGA Configuration command : Success
+
+Thu Apr 29 11:48:10 2021
+Return status : 0
+
+Thu Apr 29 11:48:10 2021
+Start Record Command (req)
+
+Wed Sep 22 12:08:22 2021
+FPGA Configuration Command (req)
+
+Wed Sep 22 12:08:32 2021
+FPGA Configuration : 
+OS error - -2
+
+Wed Sep 22 12:08:32 2021
+Return status : -2
+
+Wed Sep 22 12:08:32 2021
+Start Record Command (req)
+
+Wed Sep 22 12:08:43 2021
+System is disconnected.
+
+Wed Sep 22 12:08:43 2021
+Return status : -2
+
+Wed Sep 22 12:09:41 2021
+FPGA Configuration Command (req)
+
+Wed Sep 22 12:11:25 2021
+FPGA Configuration Command (req)
+
+Wed Sep 22 12:11:25 2021
+FPGA Configuration command : Success
+
+Wed Sep 22 12:11:25 2021
+Return status : 0
+
+Wed Sep 22 12:11:25 2021
+Start Record Command (req)
+
+Wed Sep 22 12:13:24 2021
+FPGA Configuration Command (req)
+
+Wed Sep 22 12:13:24 2021
+FPGA Configuration command : Success
+
+Wed Sep 22 12:13:24 2021
+Return status : 0
+
+Wed Sep 22 12:13:24 2021
+Start Record Command (req)
+
+Wed Sep 22 12:22:23 2021
+FPGA Configuration Command (req)
+
+Wed Sep 22 12:22:23 2021
+FPGA Configuration command : Success
+
+Wed Sep 22 12:22:23 2021
+Return status : 0
+
+Wed Sep 22 12:22:23 2021
+Start Record Command (req)
+
+Wed Sep 22 12:34:32 2021
+FPGA Configuration Command (req)
+
+Wed Sep 22 12:34:32 2021
+FPGA Configuration command : Success
+
+Wed Sep 22 12:34:32 2021
+Return status : 0
+
+Wed Sep 22 12:34:32 2021
+Start Record Command (req)
+
+Wed Sep 22 12:39:01 2021
+FPGA Configuration Command (req)
+
+Wed Sep 22 12:39:01 2021
+FPGA Configuration command : Success
+
+Wed Sep 22 12:39:01 2021
+Return status : 0
+
+Wed Sep 22 12:39:01 2021
+Start Record Command (req)
+
+Wed Sep 22 12:50:59 2021
+FPGA Configuration Command (req)
+
+Wed Sep 22 12:50:59 2021
+FPGA Configuration command : Success
+
+Wed Sep 22 12:50:59 2021
+Return status : 0
+
+Wed Sep 22 12:50:59 2021
+Start Record Command (req)
+
+Wed Sep 22 13:00:43 2021
+FPGA Configuration Command (req)
+
+Wed Sep 22 13:00:43 2021
+FPGA Configuration command : Success
+
+Wed Sep 22 13:00:43 2021
+Return status : 0
+
+Wed Sep 22 13:00:43 2021
+Start Record Command (req)
+
+Wed Sep 22 13:04:23 2021
+FPGA Configuration Command (req)
+
+Wed Sep 22 13:04:23 2021
+FPGA Configuration command : Success
+
+Wed Sep 22 13:04:23 2021
+Return status : 0
+
+Wed Sep 22 13:04:23 2021
+Start Record Command (req)
+
+Wed Sep 22 13:40:41 2021
+FPGA Configuration Command (req)
+
+Wed Sep 22 13:40:41 2021
+FPGA Configuration command : Success
+
+Wed Sep 22 13:40:41 2021
+Return status : 0
+
+Wed Sep 22 13:40:41 2021
+Start Record Command (req)

@@ -1,0 +1,447 @@
+
+Tue Sep 21 05:26:02 2021
+FPGA Configuration Command (req)
+
+Tue Sep 21 05:26:02 2021
+FPGA Configuration command : Success
+
+Tue Sep 21 05:26:02 2021
+Return status : 0
+
+Tue Sep 21 05:26:02 2021
+Configure Record Command (req)
+
+Tue Sep 21 05:26:02 2021
+Configure Record command : Success
+
+Tue Sep 21 05:26:02 2021
+Return status : 0
+
+Tue Sep 21 05:27:00 2021
+Start Record Command (req)
+
+Tue Sep 21 06:05:47 2021
+FPGA Configuration Command (req)
+
+Tue Sep 21 06:05:47 2021
+FPGA Configuration command : Success
+
+Tue Sep 21 06:05:47 2021
+Return status : 0
+
+Tue Sep 21 06:07:03 2021
+FPGA Configuration Command (req)
+
+Tue Sep 21 06:07:03 2021
+FPGA Configuration command : Success
+
+Tue Sep 21 06:07:03 2021
+Return status : 0
+
+Tue Sep 21 06:07:03 2021
+Configure Record Command (req)
+
+Tue Sep 21 06:07:03 2021
+Configure Record command : Success
+
+Tue Sep 21 06:07:03 2021
+Return status : 0
+
+Tue Sep 21 06:08:05 2021
+FPGA Configuration Command (req)
+
+Tue Sep 21 06:08:05 2021
+FPGA Configuration command : Success
+
+Tue Sep 21 06:08:05 2021
+Return status : 0
+
+Tue Sep 21 06:08:05 2021
+Configure Record Command (req)
+
+Tue Sep 21 06:08:05 2021
+Configure Record command : Success
+
+Tue Sep 21 06:08:05 2021
+Return status : 0
+
+Tue Sep 21 06:08:36 2021
+FPGA Configuration Command (req)
+
+Tue Sep 21 06:08:36 2021
+FPGA Configuration command : Success
+
+Tue Sep 21 06:08:36 2021
+Return status : 0
+
+Tue Sep 21 06:08:36 2021
+Configure Record Command (req)
+
+Tue Sep 21 06:08:36 2021
+Configure Record command : Success
+
+Tue Sep 21 06:08:36 2021
+Return status : 0
+
+Tue Sep 21 06:11:16 2021
+FPGA Configuration Command (req)
+
+Tue Sep 21 06:11:16 2021
+FPGA Configuration command : Success
+
+Tue Sep 21 06:11:16 2021
+Return status : 0
+
+Tue Sep 21 06:11:16 2021
+Configure Record Command (req)
+
+Tue Sep 21 06:11:16 2021
+Configure Record command : Success
+
+Tue Sep 21 06:11:16 2021
+Return status : 0
+
+Tue Sep 21 06:11:16 2021
+Start Record Command (req)
+
+Tue Sep 21 06:13:34 2021
+FPGA Configuration Command (req)
+
+Tue Sep 21 06:13:34 2021
+FPGA Configuration command : Success
+
+Tue Sep 21 06:13:34 2021
+Return status : 0
+
+Tue Sep 21 06:13:34 2021
+Configure Record Command (req)
+
+Tue Sep 21 06:13:34 2021
+Configure Record command : Success
+
+Tue Sep 21 06:13:34 2021
+Return status : 0
+
+Tue Sep 21 06:13:39 2021
+Start Record Command (req)
+
+Tue Sep 21 06:15:10 2021
+FPGA Configuration Command (req)
+
+Tue Sep 21 06:15:10 2021
+FPGA Configuration command : Success
+
+Tue Sep 21 06:15:10 2021
+Return status : 0
+
+Tue Sep 21 06:15:10 2021
+Configure Record Command (req)
+
+Tue Sep 21 06:15:10 2021
+Configure Record command : Success
+
+Tue Sep 21 06:15:10 2021
+Return status : 0
+
+Tue Sep 21 06:15:35 2021
+FPGA Configuration Command (req)
+
+Tue Sep 21 06:15:35 2021
+FPGA Configuration command : Success
+
+Tue Sep 21 06:15:35 2021
+Return status : 0
+
+Tue Sep 21 06:15:35 2021
+Configure Record Command (req)
+
+Tue Sep 21 06:15:35 2021
+Configure Record command : Success
+
+Tue Sep 21 06:15:35 2021
+Return status : 0
+
+Tue Sep 21 06:18:11 2021
+FPGA Configuration Command (req)
+
+Tue Sep 21 06:18:11 2021
+FPGA Configuration command : Success
+
+Tue Sep 21 06:18:11 2021
+Return status : 0
+
+Tue Sep 21 06:18:11 2021
+Configure Record Command (req)
+
+Tue Sep 21 06:18:11 2021
+Configure Record command : Success
+
+Tue Sep 21 06:18:11 2021
+Return status : 0
+
+Tue Sep 21 06:18:34 2021
+FPGA Configuration Command (req)
+
+Tue Sep 21 06:18:34 2021
+FPGA Configuration command : Success
+
+Tue Sep 21 06:18:34 2021
+Return status : 0
+
+Tue Sep 21 06:18:34 2021
+Configure Record Command (req)
+
+Tue Sep 21 06:18:34 2021
+Configure Record command : Success
+
+Tue Sep 21 06:18:34 2021
+Return status : 0
+
+Tue Sep 21 06:18:37 2021
+FPGA Configuration Command (req)
+
+Tue Sep 21 06:18:37 2021
+FPGA Configuration command : Success
+
+Tue Sep 21 06:18:37 2021
+Return status : 0
+
+Tue Sep 21 06:18:37 2021
+Configure Record Command (req)
+
+Tue Sep 21 06:18:37 2021
+Configure Record command : Success
+
+Tue Sep 21 06:18:37 2021
+Return status : 0
+
+Tue Sep 21 06:19:27 2021
+FPGA Configuration Command (req)
+
+Tue Sep 21 06:19:27 2021
+FPGA Configuration command : Success
+
+Tue Sep 21 06:19:27 2021
+Return status : 0
+
+Tue Sep 21 06:19:27 2021
+Configure Record Command (req)
+
+Tue Sep 21 06:19:27 2021
+Configure Record command : Success
+
+Tue Sep 21 06:19:27 2021
+Return status : 0
+
+Tue Sep 21 06:24:12 2021
+FPGA Configuration Command (req)
+
+Tue Sep 21 06:24:12 2021
+FPGA Configuration command : Success
+
+Tue Sep 21 06:24:12 2021
+Return status : 0
+
+Tue Sep 21 06:24:12 2021
+Configure Record Command (req)
+
+Tue Sep 21 06:24:12 2021
+Configure Record command : Success
+
+Tue Sep 21 06:24:12 2021
+Return status : 0
+
+Tue Sep 21 06:24:27 2021
+Start Record Command (req)
+
+Tue Sep 21 06:24:34 2021
+Start Record command : Timeout Error! Couldnt read the record process status. [error 4071]
+
+Tue Sep 21 06:48:39 2021
+Ethernet connection
+
+Tue Sep 21 06:48:39 2021
+Configure Record Command (req)
+
+Tue Sep 21 06:48:39 2021
+Ethernet connection failed. [error -4051]
+
+Tue Sep 21 06:48:39 2021
+Configure Record command : Success
+
+Tue Sep 21 06:48:39 2021
+Return status : 0
+
+Tue Sep 21 06:48:54 2021
+Start Record Command (req)
+
+Tue Sep 21 06:49:02 2021
+Start Record command : Timeout Error! Couldnt read the record process status. [error 4071]
+
+Tue Sep 21 06:50:36 2021
+FPGA Configuration Command (req)
+
+Tue Sep 21 06:50:36 2021
+FPGA Configuration command : Success
+
+Tue Sep 21 06:50:36 2021
+Return status : 0
+
+Tue Sep 21 06:50:36 2021
+Configure Record Command (req)
+
+Tue Sep 21 06:50:36 2021
+Configure Record command : Success
+
+Tue Sep 21 06:50:36 2021
+Return status : 0
+
+Tue Sep 21 06:53:17 2021
+FPGA Configuration Command (req)
+
+Tue Sep 21 06:53:17 2021
+FPGA Configuration command : Success
+
+Tue Sep 21 06:53:17 2021
+Return status : 0
+
+Tue Sep 21 06:53:17 2021
+Configure Record Command (req)
+
+Tue Sep 21 06:53:17 2021
+Configure Record command : Success
+
+Tue Sep 21 06:53:17 2021
+Return status : 0
+
+Tue Sep 21 06:54:15 2021
+FPGA Configuration Command (req)
+
+Tue Sep 21 06:54:15 2021
+FPGA Configuration command : Success
+
+Tue Sep 21 06:54:15 2021
+Return status : 0
+
+Tue Sep 21 06:54:15 2021
+Configure Record Command (req)
+
+Tue Sep 21 06:54:15 2021
+Configure Record command : Success
+
+Tue Sep 21 06:54:15 2021
+Return status : 0
+
+Tue Sep 21 06:56:30 2021
+FPGA Configuration Command (req)
+
+Tue Sep 21 06:56:30 2021
+FPGA Configuration command : Success
+
+Tue Sep 21 06:56:30 2021
+Return status : 0
+
+Tue Sep 21 06:56:30 2021
+Configure Record Command (req)
+
+Tue Sep 21 06:56:30 2021
+Configure Record command : Success
+
+Tue Sep 21 06:56:30 2021
+Return status : 0
+
+Tue Sep 21 06:58:52 2021
+FPGA Configuration Command (req)
+
+Tue Sep 21 06:58:52 2021
+FPGA Configuration command : Success
+
+Tue Sep 21 06:58:52 2021
+Return status : 0
+
+Tue Sep 21 06:58:52 2021
+Configure Record Command (req)
+
+Tue Sep 21 06:58:52 2021
+Configure Record command : Success
+
+Tue Sep 21 06:58:52 2021
+Return status : 0
+
+Tue Sep 21 06:59:02 2021
+Start Record Command (req)
+
+Tue Sep 21 06:59:09 2021
+Start Record command : Timeout Error! Couldnt read the record process status. [error 4071]
+
+Tue Sep 21 07:01:41 2021
+FPGA Configuration Command (req)
+
+Tue Sep 21 07:01:41 2021
+FPGA Configuration command : Success
+
+Tue Sep 21 07:01:41 2021
+Return status : 0
+
+Tue Sep 21 07:01:41 2021
+Configure Record Command (req)
+
+Tue Sep 21 07:01:41 2021
+Configure Record command : Success
+
+Tue Sep 21 07:01:41 2021
+Return status : 0
+
+Tue Sep 21 07:01:51 2021
+Start Record Command (req)
+
+Tue Sep 21 07:01:59 2021
+Start Record command : Timeout Error! Couldnt read the record process status. [error 4071]
+
+Tue Sep 21 07:03:28 2021
+FPGA Configuration Command (req)
+
+Tue Sep 21 07:03:28 2021
+FPGA Configuration command : Success
+
+Tue Sep 21 07:03:28 2021
+Return status : 0
+
+Tue Sep 21 07:03:36 2021
+Configure Record Command (req)
+
+Tue Sep 21 07:03:36 2021
+Configure Record command : Success
+
+Tue Sep 21 07:03:36 2021
+Return status : 0
+
+Tue Sep 21 07:04:04 2021
+Start Record Command (req)
+
+Tue Sep 21 07:04:12 2021
+Start Record command : Timeout Error! Couldnt read the record process status. [error 4071]
+
+Tue Sep 21 07:04:48 2021
+FPGA Configuration Command (req)
+
+Tue Sep 21 07:04:48 2021
+FPGA Configuration command : Success
+
+Tue Sep 21 07:04:48 2021
+Return status : 0
+
+Tue Sep 21 07:04:48 2021
+Configure Record Command (req)
+
+Tue Sep 21 07:04:48 2021
+Configure Record command : Success
+
+Tue Sep 21 07:04:48 2021
+Return status : 0
+
+Tue Sep 21 07:04:58 2021
+Start Record Command (req)
+
+Tue Sep 21 07:05:06 2021
+Start Record command : Timeout Error! Couldnt read the record process status. [error 4071]

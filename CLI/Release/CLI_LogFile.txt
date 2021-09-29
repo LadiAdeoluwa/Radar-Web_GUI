@@ -1,0 +1,786 @@
+
+Thu Jun 17 14:32:49 2021
+Invalid Command (cf.json). error[-4048]
+
+Thu Jun 17 14:33:01 2021
+Invalid Command (cf.json). error[-4048]
+
+Thu Jun 17 14:34:36 2021
+Invalid Command (../cf.json). error[-4048]
+
+Thu Jun 17 14:35:05 2021
+FPGA Configuration Command (req)
+
+Thu Jun 17 14:45:14 2021
+FPGA Configuration Command (req)
+
+Thu Jun 17 14:45:14 2021
+FPGA Configuration command : Success
+
+Thu Jun 17 14:45:14 2021
+Return status : 0
+
+Thu Jun 17 14:45:50 2021
+Configure Record Command (req)
+
+Thu Jun 17 14:45:50 2021
+Configure Record command : Success
+
+Thu Jun 17 14:45:50 2021
+Return status : 0
+
+Thu Jun 17 14:49:19 2021
+FPGA Configuration Command (req)
+
+Thu Jun 17 14:49:19 2021
+FPGA Configuration command : Success
+
+Thu Jun 17 14:49:19 2021
+Return status : 0
+
+Thu Jun 17 14:49:22 2021
+Configure Record Command (req)
+
+Thu Jun 17 14:49:22 2021
+Configure Record command : Success
+
+Thu Jun 17 14:49:22 2021
+Return status : 0
+
+Thu Jun 17 14:49:27 2021
+Start Record Command (req)
+
+Thu Jun 17 14:49:27 2021
+Start Record Command (req)
+
+Thu Jun 17 14:49:27 2021
+Start Record command : Success
+
+Thu Jun 17 14:49:27 2021
+Start Record command : Success
+
+Thu Jun 17 14:49:27 2021
+Return status : 0
+
+Thu Jun 17 14:49:44 2021
+Stop Record Command (req)
+
+Thu Jun 17 14:49:51 2021
+Stop Record command : Timeout Error! Couldnt read the record process status. [error -4068]
+
+Thu Jun 17 14:57:20 2021
+FPGA Configuration Command (req)
+
+Thu Jun 17 14:57:20 2021
+FPGA Configuration command : Success
+
+Thu Jun 17 14:57:20 2021
+Return status : 0
+
+Thu Jun 17 14:57:24 2021
+Configure Record Command (req)
+
+Thu Jun 17 14:57:24 2021
+Configure Record command : Success
+
+Thu Jun 17 14:57:24 2021
+Return status : 0
+
+Thu Jun 17 14:57:30 2021
+Start Record Command (req)
+
+Thu Jun 17 14:57:30 2021
+Start Record Command (req)
+
+Thu Jun 17 14:57:30 2021
+Start Record command : Success
+
+Thu Jun 17 14:57:30 2021
+Start Record command : Success
+
+Thu Jun 17 14:57:30 2021
+Return status : 0
+
+Thu Jun 17 15:06:40 2021
+fpga
+
+Thu Jun 17 15:06:40 2021
+Stop the already running process.
+
+Thu Jun 17 15:06:52 2021
+start_record
+
+Thu Jun 17 15:06:52 2021
+Stop the already running process.
+
+Thu Jun 17 15:07:00 2021
+Stop Record Command (req)
+
+Thu Jun 17 15:07:07 2021
+Stop Record command : Timeout Error! Couldnt read the record process status. [error -4068]
+
+Thu Jun 17 15:07:13 2021
+FPGA Configuration Command (req)
+
+Thu Jun 17 15:07:13 2021
+FPGA Configuration command : Success
+
+Thu Jun 17 15:07:13 2021
+Return status : 0
+
+Thu Jun 17 15:07:21 2021
+Configure Record Command (req)
+
+Thu Jun 17 15:07:21 2021
+Configure Record command : Success
+
+Thu Jun 17 15:07:21 2021
+Return status : 0
+
+Thu Jun 17 15:07:27 2021
+Start Record Command (req)
+
+Thu Jun 17 15:07:27 2021
+Start Record Command (req)
+
+Thu Jun 17 15:07:27 2021
+Start Record command : Success
+
+Thu Jun 17 15:07:27 2021
+Start Record command : Success
+
+Thu Jun 17 15:07:27 2021
+Return status : 0
+
+Thu Jun 17 15:07:45 2021
+Stop Record Command (req)
+
+Thu Jun 17 15:07:52 2021
+Stop Record command : Timeout Error! Couldnt read the record process status. [error -4068]
+
+Thu Jun 17 15:08:42 2021
+Start Record Command (req)
+
+Thu Jun 17 15:08:42 2021
+Start Record Command (req)
+
+Thu Jun 17 15:08:42 2021
+Start Record command : Success
+
+Thu Jun 17 15:08:42 2021
+Start Record command : Success
+
+Thu Jun 17 15:08:42 2021
+Return status : 0
+
+Thu Jun 17 15:09:37 2021
+fpga
+
+Thu Jun 17 15:09:37 2021
+Stop the already running process.
+
+Thu Jun 17 15:11:05 2021
+fpga
+
+Thu Jun 17 15:11:05 2021
+Stop the already running process.
+
+Thu Jun 17 15:11:14 2021
+Stop Record Command (req)
+
+Thu Jun 17 15:11:21 2021
+Stop Record command : Timeout Error! Couldnt read the record process status. [error -4068]
+
+Thu Jun 17 15:11:24 2021
+FPGA Configuration Command (req)
+
+Thu Jun 17 15:11:24 2021
+FPGA Configuration command : Success
+
+Thu Jun 17 15:11:24 2021
+Return status : 0
+
+Thu Jun 17 15:11:32 2021
+Configure Record Command (req)
+
+Thu Jun 17 15:11:32 2021
+Configure Record command : Success
+
+Thu Jun 17 15:11:32 2021
+Return status : 0
+
+Thu Jun 17 15:11:41 2021
+stop_record
+
+Thu Jun 17 15:11:41 2021
+No record process is running.
+
+Thu Jun 17 15:11:45 2021
+stop_record
+
+Thu Jun 17 15:11:45 2021
+No record process is running.
+
+Thu Jun 17 15:11:53 2021
+Start Record Command (req)
+
+Thu Jun 17 15:11:53 2021
+Start Record Command (req)
+
+Thu Jun 17 15:11:53 2021
+Start Record command : Success
+
+Thu Jun 17 15:11:53 2021
+Start Record command : Success
+
+Thu Jun 17 15:11:53 2021
+Return status : 0
+
+Thu Jun 17 15:12:16 2021
+start_record
+
+Thu Jun 17 15:12:16 2021
+Stop the already running process.
+
+Thu Jun 17 15:13:44 2021
+fpga
+
+Thu Jun 17 15:13:44 2021
+Stop the already running process.
+
+Thu Jun 17 15:15:31 2021
+fpga
+
+Thu Jun 17 15:15:31 2021
+Stop the already running process.
+
+Thu Jun 17 15:15:51 2021
+Read Record Process Status (req)
+
+Thu Jun 17 15:15:51 2021
+Record is in progress. [status -4029]
+
+Thu Jun 17 15:16:12 2021
+Stop Record Command (req)
+
+Thu Jun 17 15:16:20 2021
+Stop Record command : Timeout Error! Couldnt read the record process status. [error -4068]
+
+Thu Jun 17 15:16:50 2021
+FPGA Configuration Command (req)
+
+Thu Jun 17 15:16:50 2021
+FPGA Configuration command : Success
+
+Thu Jun 17 15:16:50 2021
+Return status : 0
+
+Thu Jun 17 15:16:59 2021
+Configure Record Command (req)
+
+Thu Jun 17 15:16:59 2021
+Configure Record command : Success
+
+Thu Jun 17 15:16:59 2021
+Return status : 0
+
+Thu Jun 17 15:17:10 2021
+Start Record Command (req)
+
+Thu Jun 17 15:17:10 2021
+Start Record Command (req)
+
+Thu Jun 17 15:17:10 2021
+Start Record command : Success
+
+Thu Jun 17 15:17:10 2021
+Start Record command : Success
+
+Thu Jun 17 15:17:10 2021
+Return status : 0
+
+Thu Jun 17 15:17:24 2021
+Stop Record Command (req)
+
+Thu Jun 17 15:17:32 2021
+Stop Record command : Timeout Error! Couldnt read the record process status. [error -4068]
+
+Thu Jun 17 15:18:02 2021
+FPGA Configuration Command (req)
+
+Thu Jun 17 15:18:02 2021
+FPGA Configuration command : Success
+
+Thu Jun 17 15:18:02 2021
+Return status : 0
+
+Thu Jun 17 15:18:08 2021
+Configure Record Command (req)
+
+Thu Jun 17 15:18:08 2021
+Configure Record command : Success
+
+Thu Jun 17 15:18:08 2021
+Return status : 0
+
+Thu Jun 17 15:18:18 2021
+Start Record Command (req)
+
+Thu Jun 17 15:18:18 2021
+Start Record Command (req)
+
+Thu Jun 17 15:18:18 2021
+Start Record command : Success
+
+Thu Jun 17 15:18:18 2021
+Start Record command : Success
+
+Thu Jun 17 15:18:18 2021
+Return status : 0
+
+Thu Jun 17 15:18:34 2021
+Stop Record Command (req)
+
+Thu Jun 17 15:18:41 2021
+Stop Record command : Timeout Error! Couldnt read the record process status. [error -4068]
+
+Thu Jun 17 15:18:57 2021
+FPGA Configuration Command (req)
+
+Thu Jun 17 15:18:57 2021
+FPGA Configuration command : Success
+
+Thu Jun 17 15:18:57 2021
+Return status : 0
+
+Thu Jun 17 15:19:00 2021
+Configure Record Command (req)
+
+Thu Jun 17 15:19:00 2021
+Configure Record command : Success
+
+Thu Jun 17 15:19:00 2021
+Return status : 0
+
+Thu Jun 17 15:19:05 2021
+Start Record Command (req)
+
+Thu Jun 17 15:19:05 2021
+Start Record Command (req)
+
+Thu Jun 17 15:19:05 2021
+Start Record command : Success
+
+Thu Jun 17 15:19:05 2021
+Start Record command : Success
+
+Thu Jun 17 15:19:05 2021
+Return status : 0
+
+Thu Jun 17 15:19:16 2021
+Stop Record Command (req)
+
+Thu Jun 17 15:19:23 2021
+Stop Record command : Timeout Error! Couldnt read the record process status. [error -4068]
+
+Thu Jun 17 15:20:18 2021
+Ethernet connection
+
+Thu Jun 17 15:20:18 2021
+Ethernet connection failed. [error -4051]
+
+Thu Jun 17 15:20:25 2021
+Ethernet connection
+
+Thu Jun 17 15:20:25 2021
+Ethernet connection failed. [error -4051]
+
+Thu Jun 17 15:20:48 2021
+Start Record Command (req)
+
+Thu Jun 17 15:20:49 2021
+Start Record Command (req)
+
+Thu Jun 17 15:20:49 2021
+Start Record command : Success
+
+Thu Jun 17 15:20:49 2021
+Start Record command : Success
+
+Thu Jun 17 15:20:49 2021
+Return status : 0
+
+Thu Jun 17 15:21:08 2021
+Stop Record Command (req)
+
+Thu Jun 17 15:21:16 2021
+Stop Record command : Timeout Error! Couldnt read the record process status. [error -4068]
+
+Thu Jun 17 15:23:39 2021
+Ethernet connection
+
+Thu Jun 17 15:23:39 2021
+Ethernet connection failed. [error -4051]
+
+Thu Jun 17 15:23:44 2021
+Ethernet connection
+
+Thu Jun 17 15:23:44 2021
+Ethernet connection failed. [error -4051]
+
+Thu Jun 17 15:24:18 2021
+stop_record
+
+Thu Jun 17 15:24:18 2021
+No record process is running.
+
+Thu Jun 17 15:24:30 2021
+Start Record Command (req)
+
+Thu Jun 17 15:24:31 2021
+Start Record Command (req)
+
+Thu Jun 17 15:24:31 2021
+Start Record command : Success
+
+Thu Jun 17 15:24:31 2021
+Start Record command : Success
+
+Thu Jun 17 15:24:31 2021
+Return status : 0
+
+Thu Jun 17 15:24:41 2021
+Stop Record Command (req)
+
+Thu Jun 17 15:24:49 2021
+Stop Record command : Timeout Error! Couldnt read the record process status. [error -4068]
+
+Thu Jun 17 15:26:06 2021
+Ethernet connection
+
+Thu Jun 17 15:26:06 2021
+Ethernet connection failed. [error -4051]
+
+Thu Jun 17 15:27:01 2021
+FPGA Configuration Command (req)
+
+Thu Jun 17 15:27:01 2021
+FPGA Configuration command : Success
+
+Thu Jun 17 15:27:01 2021
+Return status : 0
+
+Thu Jun 17 15:27:15 2021
+Configure Record Command (req)
+
+Thu Jun 17 15:27:15 2021
+Configure Record command : Success
+
+Thu Jun 17 15:27:15 2021
+Return status : 0
+
+Thu Jun 17 15:27:19 2021
+Start Record Command (req)
+
+Thu Jun 17 15:27:19 2021
+Start Record Command (req)
+
+Thu Jun 17 15:27:19 2021
+Start Record command : Success
+
+Thu Jun 17 15:27:19 2021
+Start Record command : Success
+
+Thu Jun 17 15:27:19 2021
+Return status : 0
+
+Thu Jun 17 15:27:44 2021
+Stop Record Command (req)
+
+Thu Jun 17 15:27:51 2021
+Stop Record command : Timeout Error! Couldnt read the record process status. [error -4068]
+
+Thu Jun 17 15:29:10 2021
+FPGA Configuration Command (req)
+
+Thu Jun 17 15:29:10 2021
+FPGA Configuration command : Success
+
+Thu Jun 17 15:29:10 2021
+Return status : 0
+
+Thu Jun 17 15:29:13 2021
+Configure Record Command (req)
+
+Thu Jun 17 15:29:13 2021
+Configure Record command : Success
+
+Thu Jun 17 15:29:13 2021
+Return status : 0
+
+Thu Jun 17 15:29:18 2021
+Start Record Command (req)
+
+Thu Jun 17 15:29:18 2021
+Start Record Command (req)
+
+Thu Jun 17 15:29:18 2021
+Start Record command : Success
+
+Thu Jun 17 15:29:18 2021
+Start Record command : Success
+
+Thu Jun 17 15:29:18 2021
+Return status : 0
+
+Thu Jun 17 15:29:25 2021
+Stop Record Command (req)
+
+Thu Jun 17 15:29:33 2021
+Stop Record command : Timeout Error! Couldnt read the record process status. [error -4068]
+
+Tue Sep 21 04:09:20 2021
+FPGA Configuration Command (req)
+
+Tue Sep 21 04:09:20 2021
+FPGA Configuration command : Success
+
+Tue Sep 21 04:09:20 2021
+Return status : 0
+
+Tue Sep 21 04:37:42 2021
+FPGA Configuration Command (req)
+
+Tue Sep 21 04:37:42 2021
+FPGA Configuration command : Success
+
+Tue Sep 21 04:37:42 2021
+Return status : 0
+
+Tue Sep 21 04:38:37 2021
+Configure Record Command (req)
+
+Tue Sep 21 04:38:37 2021
+Configure Record command : Success
+
+Tue Sep 21 04:38:37 2021
+Return status : 0
+
+Tue Sep 21 04:39:53 2021
+Start Record Command (req)
+
+Tue Sep 21 04:39:53 2021
+Start Record Command (req)
+
+Tue Sep 21 04:39:53 2021
+Start Record command : Success
+
+Tue Sep 21 04:39:53 2021
+Return status : 0
+
+Tue Sep 21 04:39:53 2021
+Start Record command : Success
+
+Tue Sep 21 04:40:20 2021
+Stop Record Command (req)
+
+Tue Sep 21 04:40:27 2021
+Stop Record command : Timeout Error! Couldnt read the record process status. [error -4068]
+
+Tue Sep 21 05:13:57 2021
+FPGA Configuration Command (req)
+
+Tue Sep 21 05:13:57 2021
+FPGA Configuration command : Success
+
+Tue Sep 21 05:13:57 2021
+Return status : 0
+
+Tue Sep 21 05:14:21 2021
+Configure Record Command (req)
+
+Tue Sep 21 05:14:21 2021
+Configure Record command : Success
+
+Tue Sep 21 05:14:21 2021
+Return status : 0
+
+Tue Sep 21 05:15:16 2021
+Start Record Command (req)
+
+Tue Sep 21 05:15:17 2021
+Start Record Command (req)
+
+Tue Sep 21 05:15:17 2021
+Start Record command : Success
+
+Tue Sep 21 05:15:17 2021
+Start Record command : Success
+
+Tue Sep 21 05:15:17 2021
+Return status : 0
+
+Tue Sep 21 05:15:48 2021
+Stop Record Command (req)
+
+Tue Sep 21 05:15:55 2021
+Stop Record command : Timeout Error! Couldnt read the record process status. [error -4068]
+
+Tue Sep 21 06:25:12 2021
+FPGA Configuration Command (req)
+
+Tue Sep 21 06:25:12 2021
+FPGA Configuration command : Success
+
+Tue Sep 21 06:25:12 2021
+Return status : 0
+
+Tue Sep 21 06:25:22 2021
+Configure Record Command (req)
+
+Tue Sep 21 06:25:22 2021
+Configure Record command : Success
+
+Tue Sep 21 06:25:22 2021
+Return status : 0
+
+Tue Sep 21 06:25:35 2021
+Start Record Command (req)
+
+Tue Sep 21 06:25:35 2021
+Start Record Command (req)
+
+Tue Sep 21 06:25:35 2021
+Start Record command : Success
+
+Tue Sep 21 06:25:35 2021
+Start Record command : Success
+
+Tue Sep 21 06:25:35 2021
+Return status : 0
+
+Tue Sep 21 06:25:53 2021
+start_record
+
+Tue Sep 21 06:25:53 2021
+Stop the already running process.
+
+Tue Sep 21 06:26:00 2021
+Stop Record Command (req)
+
+Tue Sep 21 06:26:07 2021
+Stop Record command : Timeout Error! Couldnt read the record process status. [error -4068]
+
+Tue Sep 21 06:26:15 2021
+Start Record Command (req)
+
+Tue Sep 21 06:26:15 2021
+Start Record Command (req)
+
+Tue Sep 21 06:26:15 2021
+Start Record command : Success
+
+Tue Sep 21 06:26:16 2021
+Start Record command : Success
+
+Tue Sep 21 06:26:16 2021
+Return status : 0
+
+Tue Sep 21 06:26:24 2021
+Stop Record Command (req)
+
+Tue Sep 21 06:26:31 2021
+Stop Record command : Timeout Error! Couldnt read the record process status. [error -4068]
+
+Tue Sep 21 06:26:36 2021
+Ethernet connection
+
+Tue Sep 21 06:26:36 2021
+Ethernet connection failed. [error -4051]
+
+Tue Sep 21 06:26:40 2021
+Ethernet connection
+
+Tue Sep 21 06:26:40 2021
+Ethernet connection failed. [error -4051]
+
+Tue Sep 21 06:26:42 2021
+Ethernet connection
+
+Tue Sep 21 06:26:42 2021
+Ethernet connection failed. [error -4051]
+
+Tue Sep 21 06:26:54 2021
+Start Record Command (req)
+
+Tue Sep 21 06:26:54 2021
+Start Record Command (req)
+
+Tue Sep 21 06:26:54 2021
+Start Record command : Success
+
+Tue Sep 21 06:26:54 2021
+Start Record command : Success
+
+Tue Sep 21 06:26:54 2021
+Return status : 0
+
+Tue Sep 21 06:27:04 2021
+start_record
+
+Tue Sep 21 06:27:04 2021
+Stop the already running process.
+
+Tue Sep 21 06:27:08 2021
+Stop Record Command (req)
+
+Tue Sep 21 06:27:16 2021
+Stop Record command : Timeout Error! Couldnt read the record process status. [error -4068]
+
+Tue Sep 21 06:27:30 2021
+Configure Record Command (req)
+
+Tue Sep 21 06:27:30 2021
+Configure Record command : Success
+
+Tue Sep 21 06:27:30 2021
+Return status : 0
+
+Tue Sep 21 06:27:32 2021
+stop_record
+
+Tue Sep 21 06:27:32 2021
+No record process is running.
+
+Tue Sep 21 06:27:40 2021
+Start Record Command (req)
+
+Tue Sep 21 06:27:40 2021
+Start Record Command (req)
+
+Tue Sep 21 06:27:40 2021
+Start Record command : Success
+
+Tue Sep 21 06:27:40 2021
+Start Record command : Success
+
+Tue Sep 21 06:27:40 2021
+Return status : 0
+
+Tue Sep 21 06:27:47 2021
+record
+
+Tue Sep 21 06:27:47 2021
+Stop the already running process.
+
+Tue Sep 21 06:27:58 2021
+record
+
+Tue Sep 21 06:27:58 2021
+Stop the already running process.
+
+Tue Sep 21 06:28:05 2021
+Stop Record Command (req)
+
+Tue Sep 21 06:28:12 2021
+Stop Record command : Timeout Error! Couldnt read the record process status. [error -4068]
